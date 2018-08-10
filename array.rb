@@ -1,3 +1,5 @@
+#largest-number-formed-from-an-array geeksforgeeks https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0
+
 $array = [54,548,546,60]#[4,90,645,96,540,60,5]#[9,3,30,34,5]#[54,548,546,60]
 $array.sort!
 $b = $array
