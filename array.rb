@@ -16,13 +16,10 @@ def main
       p "c #{c}"
       if val.to_s.length == 1
         one_array << val
-        #once_value(on,val,1)
       elsif val.to_s.length == 2
         tens_array << val
-        #tens_vals(c,val,2)
       elsif val.to_s.length == 3
         third_array << val
-        #third_val(c,val,3)
       end
     end
     p "ones_array: #{one_array}"
